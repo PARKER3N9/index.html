@@ -1,0 +1,49 @@
+a {
+  color: #fd5f00;
+}
+a:hover {
+  color: #005792;
+}
+
+.colorDiv {
+  border-radius: 10px;
+  background-color: #13334c;
+  color: white;
+  padding: 10px 0px 10px 80px;
+}
+
+.mainDiv {
+  padding-top: 30px;
+  margin-left: 10px;
+}
+.sectionOne
+{
+  background-color: #f6f6e9;
+}
+
+.foot {
+  border-radius: 10px;
+  background-color: #13334c;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  padding-top: 10px;
+
+}
+.myPic {
+    position: absolute;
+    top: 10px;
+    left: 475px;
+    height: 175px;
+    width: 125px;
+    z-index: 99;
+    box-shadow: 5px 5px 5px grey;
+
+}
+
+
+#mod {
+  font-size: 80%;
+}
+
+https://colorhunt.co/palette/124611
